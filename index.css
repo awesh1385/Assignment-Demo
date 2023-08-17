@@ -1,0 +1,50 @@
+
+
+.logo {
+  width: 90px;
+}
+
+.nav-item:hover {
+  background-color: #007bff;
+}
+
+.nav-item {
+  padding: 29px 10px;
+  text-decoration: none;
+  
+}
+#header{
+  background-image: url("https://www.tekdi.net/static/04954892ebf7f0cdbfb89e0bd062e41a/c26c2/bg-home.jpg");
+  width: 100%;
+  height:100%;
+  background-size: 100% 110%;
+
+
+}
+
+.cover-section{
+  height: 550px ;
+  width: 100%;
+  background-color: #f1f1f1;
+}
+.cover{
+  height:250px;
+}
+.cover-text h2{
+  font-weight: 600;
+  font-size: 36px;
+ 
+}
+
+.cover-text p{
+  font-weight: 600;
+  font-size: 18px;
+  color:#65737F;
+}
+.review-container{
+  height: 400px;
+}
+.review{
+  background: #09225a;
+  border:1px solid gray
+}
